@@ -54,5 +54,4 @@ The algorithm builds two tables:
 - `m[i][j]`: minimum number of multiplications needed to compute Ai...Aj
 - `s[i][j]`: index `k` where the optimal split occurs between Ai...Aj
 
-### Recurrence relation:
 
