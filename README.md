@@ -54,4 +54,11 @@ The algorithm builds two tables:
 - `m[i][j]`: minimum number of multiplications needed to compute Ai...Aj
 - `s[i][j]`: index `k` where the optimal split occurs between Ai...Aj
 
+## 🙋‍♂️ About Me
 
+**👨‍💻 Name:** Parsa Zamani  
+**🎓 Field of Study:** Computer Engineering  
+**🧠 Interests:** Artificial Intelligence, Machine Learning, Backend Development, Algorithm Design  
+**📍 Location:** Iran  
+**📫 Email:** parsazamani.uok@gmail.com  
+**🐙 GitHub:** [github.com/parsazamani1383](https://github.com/parsazamani1383)
